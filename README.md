@@ -51,10 +51,10 @@ Performed analytical queries such as:
 * Connected MySQL database to Power BI
 * Built an interactive dashboard with:
 
-  * 📊 Genre distribution charts
-  * 📈 Year-wise trend analysis
-  * 📍 Country-based insights
-  * 🎯 KPI cards (Total Movies, TV Shows, etc.)
+  *  Genre distribution charts
+  *  Year-wise trend analysis
+  *  Country-based insights
+  *  KPI cards (Total Movies, TV Shows, etc.)
 
 ### 6️) Presentation
 
